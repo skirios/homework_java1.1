@@ -13,7 +13,7 @@
 
 В качестве тестовых данных использовались данные:
 
- * [Ключи для проверки](https://github.com/skirios/homework_java1.1/issues/new) 
+ * [Ключи для проверки](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md) 
 
 
 Тестирование производилось в следующем окружении:
